@@ -1,0 +1,183 @@
+{
+    "trigger_dict": {
+        "226762816": {
+            "action": [
+                {
+                    "action_type": "STORAGE_BOX", 
+                    "args_list": [
+                        {
+                            "arg_type": 100021, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "\u4fee\u6539\u9009\u4e2d\u96be\u5ea6\u7d22\u5f15\uff0c\u9ad8\u4eae\u9009\u4e2d\u96be\u5ea6"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 679694399000004, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                [
+                    1405746930, 
+                    "\u9009\u4e2d\u96be\u5ea6UI\u4e8b\u4ef6", 
+                    226762816, 
+                    "event_type"
+                ]
+            ], 
+            "group_id": "TQjYoWZ7Ee6LVzDQQunfyT", 
+            "p_trigger_id": null, 
+            "trigger_id": 226762816, 
+            "trigger_name": "\u9009\u4e2d\u96be\u5ea6", 
+            "valid": true
+        }, 
+        "679694399": {
+            "action": [
+                {
+                    "action_type": "STORAGE_BOX", 
+                    "args_list": [
+                        {
+                            "arg_type": 100021, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "\u4fee\u6539\u9009\u4e2d\u5173\u5361\u7d22\u5f15\uff0c\u9ad8\u4eae\u9009\u4e2d\u5173\u5361"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 679694399000004, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                [
+                    1338827047, 
+                    "\u9009\u4e2d\u5173\u5361UI\u4e8b\u4ef6", 
+                    679694399, 
+                    "event_type"
+                ]
+            ], 
+            "group_id": "TQjYoWZ7Ee6LVzDQQunfyT", 
+            "p_trigger_id": null, 
+            "trigger_id": 679694399, 
+            "trigger_name": "\u9009\u4e2d\u5173\u5361", 
+            "valid": true
+        }, 
+        "1669509182": {
+            "action": [
+                {
+                    "action_type": "STORAGE_BOX", 
+                    "args_list": [
+                        {
+                            "arg_type": 100021, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "\u4fee\u6539\u9009\u4e2d\u6b66\u5c06\u7d22\u5f15\uff0c\u9ad8\u4eae\u9009\u4e2d\u6b66\u5c06"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 679694399000004, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                [
+                    1668902708, 
+                    "\u9009\u4e2d\u6b66\u5c06UI\u4e8b\u4ef6", 
+                    1669509182, 
+                    "event_type"
+                ]
+            ], 
+            "group_id": "TQjYoWZ7Ee6LVzDQQunfyT", 
+            "p_trigger_id": null, 
+            "trigger_id": 1669509182, 
+            "trigger_name": "\u9009\u4e2d\u6b66\u5c06", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    679694399, 
+                    "\u9009\u4e2d\u5173\u5361"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    226762816, 
+                    "\u9009\u4e2d\u96be\u5ea6"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1669509182, 
+                    "\u9009\u4e2d\u6b66\u5c06"
+                ]
+            }
+        ], 
+        "is_sub_folder": true, 
+        "key": "eSbxsGZ7Ee65JDDQQunfyQ", 
+        "name": "\u51fa\u5f81\u70b9"
+    }
+}

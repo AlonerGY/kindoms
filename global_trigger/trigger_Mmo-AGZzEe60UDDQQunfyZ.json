@@ -1,0 +1,70 @@
+{
+    "trigger_dict": {
+        "715657276": {
+            "action": [
+                {
+                    "action_type": "STORAGE_BOX", 
+                    "args_list": [
+                        {
+                            "arg_type": 100021, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "\u6e05\u9664\u6240\u6709\u83dc\u5355\u9879\u7684\u9ad8\u4eae\u72b6\u6001\uff0c\u9690\u85cf\u6240\u6709\u83dc\u5355\u9879\u754c\u9762"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 715657276000002, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "func_category": "t_function", 
+            "func_comment": "", 
+            "func_des": "\u91cd\u7f6e\u6240\u6709\u4e0a\u83dc\u5355\u4e3a\u672a\u9009\u4e2d", 
+            "func_id": "3851ef30667311ee97fa30d042e9dfc9", 
+            "func_name": "\u91cd\u7f6e\u6240\u6709\u4e0a\u83dc\u5355\u4e3a\u672a\u9009\u4e2d", 
+            "group_id": "Mmo-AGZzEe60UDDQQunfyZ", 
+            "is_func": true, 
+            "is_official_func": false, 
+            "p_trigger_id": null, 
+            "trigger_id": 715657276, 
+            "trigger_name": "\u91cd\u7f6e\u6240\u6709\u4e0a\u83dc\u5355\u4e3a\u672a\u9009\u4e2d", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_function_": true, 
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    715657276, 
+                    "\u91cd\u7f6e\u6240\u6709\u4e0a\u83dc\u5355\u4e3a\u672a\u9009\u4e2d"
+                ]
+            }
+        ], 
+        "is_sub_folder": false, 
+        "key": "Mmo-AGZzEe60UDDQQunfyZ", 
+        "name": "\u4e3b\u754c\u9762\u51fd\u6570"
+    }
+}

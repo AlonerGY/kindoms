@@ -1,0 +1,88 @@
+{
+    "trigger_dict": {
+        "300564546": {
+            "action": [
+                {
+                    "action_type": "STORAGE_BOX", 
+                    "args_list": [
+                        {
+                            "arg_type": 100021, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "\u7ed1\u5b9a\u6b66\u5c06\u5c5e\u6027\u5230\u7ecf\u9a8c\u6761UI"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 300564546000002, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                [
+                    2093732719, 
+                    "\u6b66\u5c06\u51fa\u751f", 
+                    300564546, 
+                    "event_type"
+                ]
+            ], 
+            "group_id": "IYLZgGZ+Ee6P8TDQQunfyf", 
+            "p_trigger_id": null, 
+            "trigger_id": 300564546, 
+            "trigger_name": "\u7ecf\u9a8c\u6761", 
+            "valid": true
+        }, 
+        "1644924995": {
+            "action": [], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "group_id": "IYLZgGZ+Ee6P8TDQQunfyf", 
+            "p_trigger_id": null, 
+            "trigger_id": 1644924995, 
+            "trigger_name": "", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    300564546, 
+                    "\u7ecf\u9a8c\u6761"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1644924995, 
+                    ""
+                ]
+            }
+        ], 
+        "is_sub_folder": false, 
+        "key": "IYLZgGZ+Ee6P8TDQQunfyf", 
+        "name": "\u6218\u6597\u754c\u9762"
+    }
+}

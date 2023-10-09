@@ -1,0 +1,48 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "children": [], 
+            "event_list": [
+                {
+                    "action_list": [], 
+                    "enabled": true, 
+                    "name": "\u8fdb\u5165\u5173\u5361", 
+                    "sound_id": null, 
+                    "type": 2
+                }
+            ], 
+            "name": "button_1", 
+            "normal_text": {
+                "__tuple__": true, 
+                "items": [
+                    "\u8fdb\u5165\u5173\u5361", 
+                    false
+                ]
+            }, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    500.7047119140625
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    46.36154739945023
+                ]
+            }, 
+            "type": 1, 
+            "uid": "995c3863-cb54-4171-bbac-81cf622531ea"
+        }
+    ], 
+    "name": "\u4e3b\u754c\u9762", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "0c2f15f7-d228-404f-bb58-a333c8af71fe", 
+    "visible": true, 
+    "zorder": 400
+}

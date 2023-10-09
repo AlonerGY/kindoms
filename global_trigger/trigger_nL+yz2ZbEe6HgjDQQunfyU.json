@@ -1,0 +1,96 @@
+{
+    "trigger_dict": {
+        "21864505": {
+            "action": [
+                {
+                    "action_type": "STORAGE_BOX", 
+                    "args_list": [
+                        {
+                            "arg_type": 100021, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "\u4ece\u73a9\u5bb6\u5b58\u6863\u4e2d\u8bfb\u53d6\u6570\u636e\u5b58\u5230\u8868\u4e2d"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 21864505000003, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "func_category": "t_function", 
+            "func_comment": "", 
+            "func_des": "\u8bfb\u53d6\u5b58\u6863", 
+            "func_id": "d96ce721666f11ee975f30d042e9dfc9", 
+            "func_name": "\u8bfb\u53d6\u5b58\u6863", 
+            "group_id": "nL+yz2ZbEe6HgjDQQunfyU", 
+            "is_func": true, 
+            "is_official_func": false, 
+            "p_trigger_id": null, 
+            "trigger_id": 21864505, 
+            "trigger_name": "\u8bfb\u53d6\u5b58\u6863", 
+            "valid": true
+        }, 
+        "2019426361": {
+            "action": [], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "func_category": "t_function", 
+            "func_comment": "", 
+            "func_des": "\u4fdd\u5b58\u5b58\u6863\uff08\u5168\u90e8\uff09", 
+            "func_id": "75bc7780667011ee955730d042e9dfc9", 
+            "func_name": "\u4fdd\u5b58\u5b58\u6863\uff08\u5168\u90e8\uff09", 
+            "group_id": "nL+yz2ZbEe6HgjDQQunfyU", 
+            "is_func": true, 
+            "is_official_func": false, 
+            "p_trigger_id": null, 
+            "trigger_id": 2019426361, 
+            "trigger_name": "\u4fdd\u5b58\u5b58\u6863\uff08\u5168\u90e8\uff09", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_function_": true, 
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    21864505, 
+                    "\u8bfb\u53d6\u5b58\u6863"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    2019426361, 
+                    "\u4fdd\u5b58\u5b58\u6863\uff08\u5168\u90e8\uff09"
+                ]
+            }
+        ], 
+        "is_sub_folder": false, 
+        "key": "nL+yz2ZbEe6HgjDQQunfyU", 
+        "name": "\u5b58\u6863\u51fd\u6570"
+    }
+}
